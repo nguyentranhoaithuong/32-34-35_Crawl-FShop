@@ -1,0 +1,7 @@
+Ten: Laptop MSI Modern 15 B12MO-487VN i7 1255U/16GB/512GB/15.6" FHD/Win11 (No.00884856)
+Gia: 19.490.000₫
+Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 60, 300 nits, IPS
+- Intel, Core i7, 1255U
+- 16 GB, DDR4, 3200 MHz
+- SSD 512 GB
+- Intel Iris Xe Graphics

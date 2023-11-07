@@ -1,0 +1,8 @@
+Ten: Laptop MSI Prestige 13Evo A13M-081VN i7-1360P/16GB/1TB/13.3"FHD/Win 11 (No.00888839)
+Gia: 30.990.000₫
+Gia Goc: 33.990.000₫
+Chi tiet: - 13.3 inch, 1920 x 1200 Pixels, IPS, 144, IPS
+- Intel, Core i7, 1360P
+- 16 GB, LPDDR5, 4800 MHz
+- SSD 1 TB
+- Intel Iris Xe Graphics
