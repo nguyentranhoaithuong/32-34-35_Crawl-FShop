@@ -3,8 +3,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 driver=webdriver.Chrome()
-if not os.path.exists('BUOC1'):
-    os.mkdir('BUOC1')
+if not os.path.exists('BUOC3'):
+    os.mkdir('BUOC3')
 A=[]
 file_contents=[]
 for filename in os.listdir('E:/Code/BTL_KPW/filetext'):
@@ -30,7 +30,7 @@ for k in range(168,len(url_list)):
     thongtin=driver.find_elements(By.CSS_SELECTOR,'div.st-param')
     for i in range(len(ten)):
         chitiet=thongtin[i].find_elements(By.TAG_NAME,'li')
-        filename = f'BUOC1/sp{k+1}-{Tensp[k]}.txt'
+        filename = f'BUOC3/sp{k+1}-{Tensp[k]}.txt'
         with open(filename, 'w', encoding='utf-8') as file:
             file.write('Ten: '+ten[i].text+'\n')
             if len(gia)!=0:
