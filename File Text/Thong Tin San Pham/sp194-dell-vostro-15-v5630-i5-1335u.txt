@@ -1,0 +1,7 @@
+Ten: Laptop Dell Vostro 15 V5630 i5 1335U/16GB/512GB/16.0" FHD+/Win11/Office HS21 (No.00904930)
+Gia: 25.690.000₫
+Chi tiet: - 16 inch, 1920 x 1200 Pixels, WVA, 60, 250 nits, Wide-Viewing Angle (WVA)
+- Intel, Core i5, 1335U
+- 16 GB, LPDDR5, 4800 MHz
+- SSD 512 GB
+- Intel Iris Xe Graphics

@@ -1,0 +1,6 @@
+Ten: Laptop Microsoft Surface Pro 9 i7 1255U/16GB/512GB/13" Touchscreen/Win11 (No.00881871)
+Chi tiet: - 13.0 inch, 2880 x 1920 Pixels, IPS, 120, IPS
+- Intel, Core i7, 1255U
+- 16 GB (1 thanh 16 GB), DDR5, 4800 MHz
+- SSD 512 GB
+- Intel Iris Xe Graphics
