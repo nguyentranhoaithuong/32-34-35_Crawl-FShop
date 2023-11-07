@@ -1,0 +1,7 @@
+Ten: Laptop Lenovo IdeaPad 1 15ALC7 R5 5500U/16GB/512GB/15.6" FHD/Win11 (No.00901952)
+Gia: 12.990.000₫
+Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, TN, 60, 220 nits, FHD
+- AMD, Ryzen 5, 5500U
+- 16 GB (2 thanh 8 GB), DDR4, 3200 MHz
+- SSD 512 GB
+- AMD Radeon 610 2GB; AMD Radeon Graphics
