@@ -1,8 +1,0 @@
-Ten: Laptop HP Pavilion 14-dv2075TU i5 1235U/8GB/512GB SSD/14"FHD/Win11 (No.00857690)
-Gia: 16.590.000₫
-Gia Goc: 19.690.000₫
-Chi tiet: - 14.0 inch, 1920 x 1080 Pixels, IPS, 60, 250 nits, LED Backlit
-- Intel, Core i5, 1235U
-- 8 GB (2 thanh 4 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

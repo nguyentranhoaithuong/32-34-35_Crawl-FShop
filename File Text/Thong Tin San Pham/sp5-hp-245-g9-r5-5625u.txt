@@ -1,8 +1,0 @@
-Ten: Laptop HP 245 G9 R5 5625U/8GB/256GB/14"FHD/Win11 (No.00881756)
-Gia: 10.790.000₫
-Gia Goc: 13.090.000₫
-Chi tiet: - 14.0 inch, 1920 x 1080 Pixels, IPS, 60, 250 nits, LCD
-- AMD, Ryzen 5, 5625U
-- 8 GB (1 thanh 8 GB), DDR4, 3200 MHz
-- SSD 256 GB
-- AMD Radeon Graphics

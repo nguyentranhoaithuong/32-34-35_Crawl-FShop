@@ -1,7 +1,0 @@
-Ten: Laptop MSI Modern 14 C11M-011VN i3 1115G4/8GB/512GB/14" FHD/Win11 (No.00860753)
-Gia: 11.990.000₫
-Chi tiet: - 14 inch, 1920 x 1080 Pixels, IPS, 60, 300 nits, IPS
-- Intel, Core i3, 1115G4
-- 8 GB, DDR4, 3200 MHz
-- SSD 512 GB
-- Intel UHD Graphics
