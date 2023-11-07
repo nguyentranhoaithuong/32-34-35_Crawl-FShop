@@ -1,0 +1,8 @@
+Ten: Laptop Lenovo IdeaPad 3 14IAU7 i5-1235U/8GB/512GB/14" FHD/Win 11 (No.00836269)
+Gia: 12.990.000₫
+Gia Goc: 17.790.000₫
+Chi tiet: - 14.0 inch, 1920 x 1080 Pixels, TN, 60, 250 nits, IPS LCD LED Backlit, True Tone
+- Intel, Core i5, 1235U
+- 8 GB, DDR4, 3200 MHz
+- SSD 512 GB
+- Intel Iris Xe Graphics
