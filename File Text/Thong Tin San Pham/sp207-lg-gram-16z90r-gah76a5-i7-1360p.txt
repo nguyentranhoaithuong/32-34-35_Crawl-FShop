@@ -1,0 +1,7 @@
+Ten: Laptop LG Gram 16Z90R-G.AH76A5 i7 1360P/16GB/512GB/16"WQXGA+/Win11 (No.00881939)
+Gia: 46.990.000₫
+Chi tiet: - 16.0 inch, 2560 x 1600 Pixels, OLED, 120, OLED
+- Intel, Core i7, 1360P
+- 16 GB (1 thanh 16 GB), DDR5, 6000 MHz
+- SSD 512 GB
+- Intel Iris Plus Graphics
