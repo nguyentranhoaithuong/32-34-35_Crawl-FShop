@@ -1,1 +1,99 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import os
+import re
+import time
 
+# Khai báo đường dẫn tới thư mục chứa tất cả các file cmt
+output_folder = "D:\\Khai pha web\\CK\\Cmt"
+
+# Tạo thư mục chứa tất cả các file cmt nếu nó chưa tồn tại
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+
+# Hàm để loại bỏ những kí tự không hợp lệ trong tên file
+def clean_filename(filename):
+    cleaned_filename = re.sub(r'[\\/*?:"<>|]', '', filename)
+    return cleaned_filename
+
+def scrape_comments_from_current_page(driver):
+    comments = []
+
+    try:
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'root-review')))
+        review_element = driver.find_element(By.ID, 'root-review')
+        comment_elements = review_element.find_elements(By.CSS_SELECTOR, '.user-block')
+
+        for comment_element in comment_elements:
+            try:
+                user_name = comment_element.find_element(By.CSS_SELECTOR, '.avatar-name .text').text
+                comment = comment_element.find_element(By.CSS_SELECTOR, '.avatar-para .text').text
+                date = comment_element.find_element(By.CSS_SELECTOR, '.avatar-time .text.text-grayscale').text
+
+                comment_data = f"Người dùng: {user_name}\nNgày đăng: {date}\nBình luận: {comment}\n------------------------------------\n"
+                comments.append(comment_data)
+            except StaleElementReferenceException:
+                # Nếu xảy ra lỗi stale, hãy thử tìm lại phần tử
+                comment_elements = review_element.find_elements(By.CSS_SELECTOR, '.user-block')
+                # Hoặc thêm một khoảng thời gian chờ trước khi thử lại
+                time.sleep(1)  # Chờ 1 giây trước khi thử lại lấy thông tin từ phần tử
+                continue
+            except NoSuchElementException:
+                pass
+
+    except NoSuchElementException:
+        pass
+
+    return comments
+
+def scrape_comments_from_all_pages():
+    driver = webdriver.Chrome()
+
+    with open('D:\\Khai pha web\\CK\\buoc1.txt', 'r') as file:
+        for line in file:
+            url = line.strip()
+            driver.get(url)
+
+            try:
+                # Chờ cho phần tử hiển thị trên trang
+                WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'st-name')))
+
+                product_name = driver.find_element(By.CLASS_NAME, 'st-name').text
+                product_name = clean_filename(product_name)  # Loại bỏ kí tự không hợp lệ từ tên sản phẩm để sử dụng làm tên file
+
+                comments = []
+
+                while True:
+                    # Lấy dữ liệu trang hiện tại và thêm vào danh sách comments
+                    comments.extend(scrape_comments_from_current_page(driver))
+
+                    try:
+                        # Tìm thẻ chứa phần review bằng ID 'root-review'
+                        review_element = driver.find_element(By.ID, 'root-review')
+                        
+                        # Tìm phần tử nút chuyển trang tiếp theo
+                        next_page_element = review_element.find_element(By.CSS_SELECTOR, "ul.pagination a.pagination-link i.cm-ic-angle-right")
+                        # Click chuyển trang
+                        next_page_element.click()
+
+                        # Đợi chuyển trang và lấy dữ liệu từ trang mới
+                        time.sleep(2)
+                    except NoSuchElementException:
+                        break  # Kết thúc vòng lặp khi không còn nút chuyển trang
+
+                # Lưu comment vào file
+                output_file_path = os.path.join(output_folder, f"{product_name}.txt")
+                with open(output_file_path, 'w', encoding='utf-8') as f:
+                    for comment in comments:
+                        f.write(comment)
+
+            except NoSuchElementException:
+                print(f"Không thể lấy dữ liệu từ {url}")
+
+    driver.quit()
+
+# Bắt đầu quá trình lấy dữ liệu từ tất cả các trang và ghi vào file .txt
+scrape_comments_from_all_pages()
