@@ -1,0 +1,29 @@
+import os
+from sklearn.feature_extraction.text import TfidfVectorizer
+import pandas as pd
+pd.set_option('display.max_columns', None)
+
+thumuc = 'D:\\Khai pha web\\CK\\TXLCMT'
+folder = 'D:\\Khai pha web\\CK\\TF_IDF'
+if not os.path.exists(folder):
+    os.makedirs(folder)
+vectorizer = TfidfVectorizer()
+for sp in os.listdir(thumuc):
+    duongdan = os.path.join(thumuc, sp)
+    if os.path.isdir(duongdan):
+        D = []
+        file_names = []
+        for file_name in ['Nes.txt', 'neutral.txt', 'Pos.txt']:
+            file_path = os.path.join(duongdan, file_name)
+            if os.path.isfile(file_path):
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    text = file.read()
+                    if text:  # Kiểm tra nếu file không rỗng
+                        D.append(text)
+                        file_names.append(file_name)
+        if D:  # Kiểm tra nếu có ít nhất một file không rỗng
+            tf_idf = vectorizer.fit_transform(D)
+            df = pd.DataFrame(tf_idf.toarray(), columns=vectorizer.get_feature_names_out(), index=file_names)
+            print(f'{sp}')
+            new_name_dir = sp.replace('TXL', 'TF_IDF')
+            df.to_csv(os.path.join(folder, f'{new_name_dir}.csv'), index=True, encoding='utf-8-sig')
