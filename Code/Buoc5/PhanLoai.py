@@ -1,7 +1,8 @@
 import os
 import re
-TichCuc=["hiệu quả","uy tín","hữu ích","đỉnh","đáng tin cậy","tiện lợi","nhỏ gọn","an tâm","mượt","gọn nhẹ","ngon","độc đáo","hàng chuẩn","hợp lý","sắc nét","xịn xò","phù hợp","hấp dẫn","không thua kém","thoải mái","đỉnh cao","điểm cộng","lý tưởng","ấn tượng","hài lòng",'tốt',"tuyệt vời","tận tình","mỏng nhẹ","mạnh","êm","nhanh", 'thích', 'tuyệt', 'xuất sắc',"đúng hẹn","nhiệt tình", 'nổi bật', 'thiết kế đẹp', 'sang trọng', 'độ bền', 'bền bỉ', 'bền', 'hiện đại', 'tiên tiến', 'ổn', 'ổn định', 'an toàn', 'đa dạng', 'linh hoạt', 'đẹp']
-TieuCuc=["vô ích","không thật","delay","chậm","điểm trừ","không hài lòng",'không tốt', 'không thích', 'không được', 'tệ', 'không nổi bật', 'xấu', 'nhanh hỏng', 'không bền', 'nhanh hư', 'dễ bể']
+TichCuc=["hoàn hảo","vượt trội","ưng ý","không bám","thuận tiện","mỏng",'gọn',"trơn tru","bắt mắt","hiệu quả","uy tín","hữu ích","đỉnh","đáng tin cậy","tiện lợi","nhỏ gọn","an tâm","mượt","gọn nhẹ","ngon","độc đáo","hàng chuẩn","hợp lý","sắc nét","xịn xò","phù hợp","hấp dẫn","không thua kém","thoải mái","đỉnh cao","điểm cộng","lý tưởng","ấn tượng","hài lòng",'tốt',"tuyệt vời","tận tình","mỏng nhẹ","mạnh","êm","nhanh", 'thích', 'tuyệt', 'xuất sắc',"đúng hẹn","nhiệt tình", 'nổi bật', 'thiết kế đẹp', 'sang trọng', 'độ bền', 'bền bỉ', 'bền', 'hiện đại', 'tiên tiến', 'ổn', 'ổn định', 'an toàn', 'đa dạng', 'linh hoạt', 'đẹp']
+TieuCuc=["bám","giật","lag","nóng máy","lỗi","mồ hôi","nặng","đơ","vô ích","không thật","delay","chậm","điểm trừ","không hài lòng",'không tốt', 'không thích', 'không được', 'tệ', 'không nổi bật', 'xấu', 'nhanh hỏng', 'không bền', 'nhanh hư', 'dễ bể']
+
 def label_comments(folder_path):
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.txt'):
