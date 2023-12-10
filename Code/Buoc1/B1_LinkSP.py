@@ -18,7 +18,11 @@ for link in LinksBao:
     except NoSuchElementException:
         pass
 
-filename = os.path.join("D:\Khai_pha_web\BaoCao", "B1_Link.txt")
+output_folder = 'D:\Khai_pha_web\BaoCao\B1_urlSP'
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+
+filename = os.path.join(output_folder, "B1_Link.txt")
 with open(filename, 'w', encoding='utf-8') as file:
     for link in All_LinksBao:
         file.write(link + '\n')
