@@ -8,7 +8,7 @@ output_folder = 'D:\Khai_pha_web\BaoCao\B2_MaNguon'
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
-with open('D:\Khai_pha_web\BaoCao\B1_Link.txt', 'r') as file:
+with open('D:\Khai_pha_web\BaoCao\B1_urlSP\B1_Link.txt', 'r') as file:
     urls = file.readlines()
 
 for i, url in enumerate(urls):
