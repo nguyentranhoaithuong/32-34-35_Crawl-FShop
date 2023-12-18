@@ -36,7 +36,7 @@ def buoc6(duongdan):
                                 output = os.path.join(neg, f'blTieuCuc{i+1}.txt')
                         if output is None:
                             output = os.path.join(neu, f'blTrungLap{i}.txt')
-                        with open(output, 'a', encoding='utf-8') as output_file:
+                        with open(output, 'w', encoding='utf-8') as output_file:
                             output_file.write(binhluan)
                         i += 1  
                         binhluan = "" 
