@@ -1,8 +1,0 @@
-Ten: Laptop Asus Vivobook S3405VA-KM071W i9 13900H/16GB/512GB/14" 2.8K OLED//Win11 (No.00879628)
-Gia: 23.990.000₫
-Gia Goc: 26.990.000₫
-Chi tiet: - 14.0 inch, 2880 x 1800 Pixels, OLED, 90, OLED
-- Intel, Core i9, 13900H
-- 16 GB (2 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

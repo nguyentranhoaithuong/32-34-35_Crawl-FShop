@@ -1,8 +1,0 @@
-Ten: Laptop HP 15s fq5160TU i5 1235U/16GB/512GB/15.6"FHD/Win 11 (No.00851505)
-Gia: 17.490.000₫
-Gia Goc: 19.990.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 60, 250 nits, Anti-Glare
-- Intel, Core i5, 1235U
-- 16 GB (2 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

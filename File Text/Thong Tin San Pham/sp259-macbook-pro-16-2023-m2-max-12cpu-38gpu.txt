@@ -1,8 +1,0 @@
-Ten: MacBook Pro 16 inch M2 Max 2023 12CPU 38GPU 32GB/1TB (No.00856989)
-Gia: 85.690.000₫
-Gia Goc: 92.990.000₫
-Chi tiet: - 16.2 inch, 3456 x 2234 Pixels, OLED, 120, 1000 nits, Retina
-- Apple, M2 Max, 12-Core
-- 32 GB, Hãng không công bố, Hãng không công bố MHz
-- SSD 1 TB
-- Apple M2 Max 38-core GPU

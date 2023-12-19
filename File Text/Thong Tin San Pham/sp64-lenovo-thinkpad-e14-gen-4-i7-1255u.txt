@@ -1,8 +1,0 @@
-Ten: Laptop Lenovo ThinkPad E14 Gen 4 i7-1255U/8GB/512GB/14.0FHD/Win11 (No.00890156)
-Gia: 22.990.000₫
-Gia Goc: 25.590.000₫
-Chi tiet: - 14.0 inch, 1920 x 1080 Pixels, IPS, 60, 300 nits, Anti - Glare
-- Intel, Core i7, 1255U
-- 8 GB, DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

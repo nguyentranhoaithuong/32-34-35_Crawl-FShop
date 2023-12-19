@@ -1,8 +1,0 @@
-Ten: Laptop Asus Vivobook Flip TP3402VA-LZ118W i9 13900H/16GB/512GB/14"Touch/Win11 (No.00904510)
-Gia: 23.490.000₫
-Gia Goc: 26.490.000₫
-Chi tiet: - 14 inch, 1920 x 1200 Pixels, IPS, 60, LED Backlit
-- Intel, Core i9, 13900H
-- 16 GB (2 thanh 8 GB), DDR4,
-- SSD 512 GB
-- Intel Iris Xe Graphics

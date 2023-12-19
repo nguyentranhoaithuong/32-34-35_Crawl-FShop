@@ -1,7 +1,0 @@
-Ten: MacBook Pro 16 2023 M3 Max 14 CPU/30 GPU/36GB/1TB (No.00905254)
-Gia: 89.990.000₫
-Chi tiet: - 16.2 inch, 3456 x 2234 Pixels, IPS, 120, 1600 nit, Liquid Retina XDR
-- Apple, M3 Max, 14-core
-- 36 GB, Hãng không công bố
-- SSD 1 TB
-- Apple M3 Max 30-core GPU

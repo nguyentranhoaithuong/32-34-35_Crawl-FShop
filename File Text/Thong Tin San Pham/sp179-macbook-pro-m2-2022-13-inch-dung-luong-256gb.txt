@@ -1,7 +1,0 @@
-Ten: MacBook Pro 13 inch M2 2022 8CPU 10GPU 8GB/256GB (No.00818154)
-Gia: 31.990.000₫
-Chi tiet: - 13.3 inch, 2560 x 1600 Pixels, OLED, Hãng không công bố, 500 nits, Retina
-- Apple, M2, 8 - Core
-- 8 GB, LPDDR4, 3200 MHz
-- SSD 256 GB
-- Apple M2 GPU 10 nhân

@@ -1,8 +1,0 @@
-Ten: Laptop Lenovo Gaming Legion 5 Pro 16ARH7H R7 6800H/16GB/512GB/16"/Nvidia RTX 3060 6GB/Win 11 (No.00900730)
-Gia: 33.990.000₫
-Gia Goc: 46.490.000₫
-Chi tiet: - 15.6 inch, 2560 x 1600 Pixels, IPS, 165, 500 nits, IPS LCD LED Backlit, True Tone
-- AMD, Ryzen 7, 6800H
-- 16 GB (2 thanh 8 GB), DDR5, 4800 MHz
-- SSD 512 GB
-- NVIDIA GeForce RTX 3060 6GB; AMD Radeon Graphics

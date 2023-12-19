@@ -1,8 +1,0 @@
-Ten: Laptop Asus Zenbook UX3402ZA-KM218W i5 1240P/8GB/512GB/14.0"OLED WQXGA/Win 11 (No.00820196)
-Gia: 20.490.000₫
-Gia Goc: 25.490.000₫
-Chi tiet: - 14.0 inch, 2880 x 1800 Pixels, 90, 400 nits, OLED
-- Intel, Core i5, 1240P
-- 8 GB, DDR5, 4800 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

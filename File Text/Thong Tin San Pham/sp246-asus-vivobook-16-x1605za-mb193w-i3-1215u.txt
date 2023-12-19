@@ -1,8 +1,0 @@
-Ten: Laptop Asus Vivobook 16 X1605ZA-MB193W i3 1215U/8GB/512GB/16" WUXGA/Win11 (No.00879616)
-Gia: 10.790.000₫
-Gia Goc: 12.290.000₫
-Chi tiet: - 16.0 inch, 1920 x 1200 Pixels, IPS, 60, Anti - Glare
-- Intel, Core i3, 1215U
-- 8 GB, DDR4, 3200 MHz
-- SSD 512 GB
-- Intel UHD Graphics

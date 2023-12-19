@@ -1,8 +1,0 @@
-Ten: Laptop Lenovo Thinkpad E14 G5 T i5 1335U/16GB/512GB/14" FHD/Win 11 (No.00905054)
-Gia: 21.890.000₫
-Gia Goc: 22.990.000₫
-Chi tiet: - 14 inch, 1920 x 1200 Pixels, IPS, 60, 300 nits, Anti-Glare
-- Intel, Core i5, 1335U
-- 16 GB (2 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

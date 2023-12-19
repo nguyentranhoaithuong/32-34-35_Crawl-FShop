@@ -1,8 +1,0 @@
-Ten: Laptop Lenovo Gaming Legion Slim 5 16IRH8 i7 13700H/16G/512G/16"WQXGA/RTX4060_8GB/Win11 (No.00883990)
-Gia: 42.990.000₫
-Gia Goc: 45.990.000₫
-Chi tiet: - 16.0 inch, 2560 x 1600 Pixels, IPS, 165, 300 nits, IPS
-- Intel, Core i7, 13700H
-- 16 GB (2 thanh 8 GB), DDR5, 5200 MHz
-- SSD 512 GB
-- NVIDIA GeForce RTX 4060 8GB

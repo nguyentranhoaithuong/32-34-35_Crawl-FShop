@@ -1,8 +1,0 @@
-Ten: Laptop Lenovo IdeaPad Slim 5 14IRL8 i5 13500H/16GB/512GB/14"WUXGA/Win11 (No.00884150)
-Gia: 18.990.000₫
-Gia Goc: 20.490.000₫
-Chi tiet: - 14.0 inch, 1920 x 1200 Pixels, OLED, 60, 400 nits, OLED
-- Intel, Core i5, 13500H
-- 16 GB (2 thanh 8 GB), DDR5, 5200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

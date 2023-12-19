@@ -1,8 +1,0 @@
-Ten: MacBook Air 13 inch M2 2022 8CPU 8GPU 16GB/256GB (No.00824331)
-Gia: 31.990.000₫
-Gia Goc: 34.990.000₫
-Chi tiet: - 13.6 inch, 2560 x 1644 Pixels, IPS, 60, 500 nits, Retina
-- Apple, M2, 8 - Core
-- 16 GB, LPDDR4, 3200 MHz
-- SSD 256 GB
-- Apple M2 GPU 8 nhân

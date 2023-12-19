@@ -1,6 +1,0 @@
-Ten: Laptop Lenovo ThinkPad L13 G3 i7 1255U/16GB/512GB/13.3" WUXGA/NoOS/3Y (No.00904900)
-Gia: 32.990.000₫
-Chi tiet: - 13.3 inch, 1920 x 1200 Pixels, IPS, 0, IPS
-- Intel, Core i7, 1255U
-- 16 GB, DDR4
-- SSD 512 GB

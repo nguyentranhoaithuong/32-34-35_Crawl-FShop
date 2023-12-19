@@ -1,7 +1,0 @@
-Ten: MacBook Pro 16 2023 M3 Pro 12 CPU/18 GPU/18GB/512GB (No.00905251)
-Gia: 64.990.000₫
-Chi tiet: - 16.2 inch, 3456 x 2234 Pixels, IPS, 120, 1600 nit, Liquid Retina XDR
-- Apple, M3 Pro, 12-Core
-- 18 GB, Hãng không công bố
-- SSD 512 GB
-- Apple M3 Pro 18-core GPU

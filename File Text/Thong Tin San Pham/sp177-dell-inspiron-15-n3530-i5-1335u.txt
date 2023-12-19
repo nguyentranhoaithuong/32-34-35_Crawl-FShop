@@ -1,8 +1,0 @@
-Ten: Laptop Dell Inspiron 15 N3530 i5 1335U/16GB/512GB/15.6"FHD/MX550/Win11+HS21 (No.00904770)
-Gia: 20.490.000₫
-Gia Goc: 22.490.000₫
-Chi tiet: - 15.6 inch, FHD (1920 x 1080), WVA, 120, 250 nits, Anti-Glare LED-Backlit Display
-- Intel, Core i5, 1335U
-- 16 GB (2 thanh 8 GB), DDR4, 2666 MHz
-- SSD 512 GB
-- NVIDIA GeForce MX550 2GB

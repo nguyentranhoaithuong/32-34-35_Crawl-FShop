@@ -1,7 +1,0 @@
-Ten: Laptop Lenovo Gaming Legion 5 15ARH7 R5 6600H/16GB/512GB/15.6"FHD/Nvidia RTX 3050Ti 4GB/Win11 (No.00882596)
-Gia: 27.990.000₫
-Gia Goc: 32.990.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 165, 300 nits, Anti-glare WLED-backlit
-- AMD, Ryzen 5, 6600H
-- 16 GB (2 thanh 8 GB), DDR5, 4800 MHz
-- SSD 512 GB

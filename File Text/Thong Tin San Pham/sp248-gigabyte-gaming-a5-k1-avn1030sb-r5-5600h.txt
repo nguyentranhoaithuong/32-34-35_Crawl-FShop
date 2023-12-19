@@ -1,8 +1,0 @@
-Ten: Laptop Gigabyte Gaming A5 K1-AVN1030SB R5 5600H/8GB/512GB/15.6"FHD/Nvidia RTX 3060 6GB/Win11 (No.00882605)
-Gia: 18.490.000₫
-Gia Goc: 19.990.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 144, Anti - Glare
-- AMD, Ryzen 5, 5600H
-- 8 GB (1 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- NVIDIA GeForce RTX 3060 6GB; AMD Radeon RX Graphics Vega 7

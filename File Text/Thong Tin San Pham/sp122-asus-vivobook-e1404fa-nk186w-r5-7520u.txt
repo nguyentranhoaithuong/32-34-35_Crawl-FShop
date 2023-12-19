@@ -1,8 +1,0 @@
-Ten: Laptop Asus Vivobook E1404FA-NK186W R5 7520U/16GB/512GB/14" FHD/Win11 (No.00872250)
-Gia: 13.490.000₫
-Gia Goc: 14.990.000₫
-Chi tiet: - 14.0 inch, 1920 x 1080 Pixels, IPS, 60, 250 nits, LED-backlit
-- AMD, Ryzen 5, 7520U
-- 16 GB, LPDDR5, 5500 MHz
-- SSD 512 GB
-- AMD Radeon Graphics

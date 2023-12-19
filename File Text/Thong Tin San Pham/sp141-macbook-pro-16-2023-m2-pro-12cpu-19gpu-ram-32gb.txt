@@ -1,7 +1,0 @@
-Ten: MacBook Pro 16 inch M2 Pro 2023 12CPU 19GPU 32GB/512GB (No.00857495)
-Gia: 76.990.000₫
-Chi tiet: - 16.2 inch, 3456 x 2234 Pixels, OLED, 120, 1000 nits, Retina
-- Apple, M2 Pro, 12-Core
-- 32 GB (1 thanh 16 GB), Hãng không công bố, Hãng không công bố MHz
-- SSD 512 GB
-- Apple M2 Pro 16-core GPU

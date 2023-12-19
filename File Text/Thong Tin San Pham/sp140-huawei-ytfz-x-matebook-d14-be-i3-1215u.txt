@@ -1,8 +1,0 @@
-Ten: Laptop Huawei MateBook D14 BE i3 1215U/8GB/256GB/14"FHD+/Win11 (No.00888042)
-Gia: 10.590.000₫
-Gia Goc: 11.990.000₫
-Chi tiet: - 14.0 inch, 1920 x 1080 Pixelss , 60Hz, IPS, 60, 300 nits, Anti-Glare LED-Backlit Display
-- Intel, Core i3, 1215U
-- 8 GB, DDR4
-- SSD 256 GB
-- Intel UHD Graphics

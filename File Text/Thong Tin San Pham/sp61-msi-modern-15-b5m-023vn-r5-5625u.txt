@@ -1,8 +1,0 @@
-Ten: Laptop MSI Modern 15 B5M-023VN R5 5625U/8GB/512GB/15.6" FHD/Win 11 (No.00858682)
-Gia: 10.990.000₫
-Gia Goc: 13.490.000₫
-Chi tiet: - 15,6 inch, 1920 x 1080 Pixels, IPS, 60, FHD
-- AMD, Ryzen 5, 5625U
-- 8 GB, DDR4, 3200 MHz
-- SSD 512 GB
-- AMD Radeon Graphics

@@ -1,7 +1,0 @@
-Ten: MacBook Air 15 inch M2 2023 8CPU 10GPU 16GB/256GB (No.00882186)
-Gia: 37.890.000₫
-Chi tiet: - 15.3 inch, 2880 x 1864 Pixels, OLED, 60, 500 nits, Liquid Retina
-- Apple, M2, 8 - Core
-- 16 GB, Hãng không công bố, Hãng không công bố MHz
-- SSD 256 GB
-- Apple M2 GPU 10 nhân

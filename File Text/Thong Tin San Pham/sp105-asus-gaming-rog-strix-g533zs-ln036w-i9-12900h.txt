@@ -1,8 +1,0 @@
-Ten: Laptop Asus Gaming ROG Strix G533ZS-LN036W i9 12900H/32GB/2TB/15.6''WQHD/NVIDIA RTX3080 8GB/Win11 (No.00892850)
-Gia: 49.990.000₫
-Gia Goc: 79.990.000₫
-Chi tiet: - 15.6 inch, 2560 x 1440 Pixels, IPS, 240, 300 nits, Anti - Glare
-- Intel, Core i9, 12900H
-- 32 GB (2 thanh 16 GB), DDR5, 4800 MHz
-- SSD 2 TB
-- NVIDIA GeForce RTX 3080 8GB

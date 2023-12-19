@@ -1,8 +1,0 @@
-Ten: Laptop Asus Zenbook UM5401QA-KN053W R5 5600H/8GB/512GB/14" OLED 2.8K Touch/Win11 (No.00879613)
-Gia: 17.990.000₫
-Gia Goc: 19.990.000₫
-Chi tiet: - 14.0 inch, 2880 x 1800 Pixels, IPS, 90, OLED
-- AMD, Ryzen 5, 5600H
-- 8 GB (1 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- AMD Radeon Graphics

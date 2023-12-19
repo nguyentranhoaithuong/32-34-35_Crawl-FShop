@@ -1,7 +1,0 @@
-Ten: Laptop HP Pavilion 15-eg2083TU i5 1240P/8GB/512GB/15.6''FHD/Win11 (No.00859666)
-Gia: 16.690.000₫
-Gia Goc: 19.790.000₫
-Chi tiet: - 15,6 inch, 1920 x 1080 Pixels, IPS, 60, IPS FHD
-- Intel, Core i5, 1240P
-- 8 GB (2 thanh 4 GB), DDR4, 3200 MHz
-- SSD 512 GB

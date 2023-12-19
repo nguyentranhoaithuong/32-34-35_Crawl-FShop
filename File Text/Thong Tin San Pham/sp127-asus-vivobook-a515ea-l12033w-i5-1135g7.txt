@@ -1,7 +1,0 @@
-Ten: Laptop Asus Vivobook A515EA-L12033W i5 1135G7/8GB/512GB/15.6"FHD/Win 11 (No.00809819)
-Gia: 19.990.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 60 Hz, 600 nits, Anti-glare LED-backlit
-- Intel, Core i5, 1135G7
-- 8 GB (1 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- Intel UHD Graphics

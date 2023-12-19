@@ -1,6 +1,0 @@
-Ten: Laptop Asus Vivobook S3504VA-L1227WS i7 1360P/16GB/512GB/15.6" FHD OLED/Win11 (No.00881387)
-Gia: 25.990.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 60, 550 nits, OLED
-- Intel, Core i7, 1360P
-- 16 GB (2 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB

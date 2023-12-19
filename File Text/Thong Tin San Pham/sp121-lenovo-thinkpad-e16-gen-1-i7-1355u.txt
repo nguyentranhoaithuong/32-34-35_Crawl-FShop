@@ -1,7 +1,0 @@
-Ten: Laptop Lenovo ThinkPad E16 Gen 1 i7 1355U/16GB/512GB/16.0 WUXGA/Win11 (No.00895012)
-Gia: 26.690.000₫
-Chi tiet: - 16.0 inch, 1920 x 1200 Pixels, IPS, 60, Anti - Glare
-- Intel, Core i7, 1355U
-- 16 GB (2 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

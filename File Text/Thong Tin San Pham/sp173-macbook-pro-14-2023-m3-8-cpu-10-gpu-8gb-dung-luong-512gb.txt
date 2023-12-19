@@ -1,7 +1,0 @@
-Ten: MacBook Pro 14 2023 M3 8 CPU/10 GPU/8GB/512GB (No.00905262)
-Gia: 39.990.000₫
-Chi tiet: - 14.2 inch, 3024 x 1964 Pixels, IPS, 120, 1600 nit, Liquid Retina XDR
-- Apple, M3, 8 - Core
-- 8 GB, Hãng không công bố
-- SSD 512 GB
-- Apple M3 8-core GPU

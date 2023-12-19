@@ -1,8 +1,0 @@
-Ten: Laptop MSI Gaming Alpha 15 B5EEK-203VN R5 5600H/8GB/512GB/15.6"FHD/RX6600M 8GB/Win 11_Balo (No.00879611)
-Gia: 17.990.000₫
-Gia Goc: 26.990.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 144, 358 nits, IPS FHD
-- AMD, Ryzen 5, 5600H
-- 8 GB (1 thanh 8 GB), DDR4, 3200 MHz
-- SSD 512 GB
-- AMD Radeon RX 6600M 8GB; AMD Radeon Graphics Vega 6

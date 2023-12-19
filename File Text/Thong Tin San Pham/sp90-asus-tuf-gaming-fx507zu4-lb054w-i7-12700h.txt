@@ -1,8 +1,0 @@
-Ten: Laptop Asus TUF Gaming FX507ZU4-LP054W i7-12700H/16GB/512GB/NVIDIA RTX4050 6GB/Win11 (No.00904755)
-Gia: 28.490.000₫
-Gia Goc: 32.990.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 144, 250 nits, Anti-Glare LED-Backlit Display
-- Intel, Core i7, 12700H
-- 16 GB (2 thanh 8 GB), DDR4
-- SSD 512 GB
-- NVIDIA GeForce RTX 4050 6GB GDDR6

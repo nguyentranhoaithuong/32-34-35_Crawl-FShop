@@ -1,8 +1,0 @@
-Ten: Laptop Lenovo Ideapad Slim 5 Light 14ABR8 R7 7730U/16GB/512GB/14.0"FHD/Win11 (No.00881885)
-Gia: 16.990.000₫
-Gia Goc: 19.990.000₫
-Chi tiet: - 14.0 inch, 1920 x 1080 Pixels, IPS, , 300 nits, Anti-Glare LED-Backlit Display
-- AMD, Ryzen 7, 7730U
-- 16 GB, DDR4, 3200 MHz
-- SSD 512 GB
-- AMD Radeon Graphics

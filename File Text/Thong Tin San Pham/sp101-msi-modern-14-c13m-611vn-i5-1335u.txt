@@ -1,7 +1,0 @@
-Ten: Laptop MSI Modern 14 C13M-611VN i5 1335U/16GB/512GB/14" FHD/Win11 (No.00882682)
-Gia: 18.490.000₫
-Chi tiet: - 14.0 inch, 1920 x 1080 Pixels, IPS, 60, IPS
-- Intel, Core i5, 1335U
-- 16 GB, DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

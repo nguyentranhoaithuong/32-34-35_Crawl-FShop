@@ -1,8 +1,0 @@
-Ten: Laptop MSI Gaming Vector GP77 13VG-043VN i7 13700H/16GB/512GB/17.3"QHD/RTX4070 8GB/Win11/Balo (No.00888284)
-Gia: 47.990.000₫
-Gia Goc: 52.990.000₫
-Chi tiet: - 17.3 inch, 2560 x 1440 Pixels, IPS, 240, IPS FHD
-- Intel, Core i7, 13700H
-- 16 GB (2 thanh 8 GB), DDR5, 5200 MHz
-- SSD 512 GB
-- NVIDIA Geforce RTX 4070 8GB GDDR6; Intel Iris Xe Graphics

@@ -1,8 +1,0 @@
-Ten: Laptop MSI Modern 15 B12MO-628VN i5 1235U/16GB/512GB/15.6"FHD/Win11 (No.00904860)
-Gia: 13.990.000₫
-Gia Goc: 14.490.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, IPS, 60, IPS FHD
-- Intel, Core i5, 1235U
-- 16 GB, DDR4, 3200 MHz
-- SSD 512 GB
-- Intel Iris Xe Graphics

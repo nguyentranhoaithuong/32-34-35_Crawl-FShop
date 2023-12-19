@@ -1,6 +1,0 @@
-Ten: Laptop HP 15s-fq5146TU i7 1255U/8GB/512GB/15.6"FHD/Win11 (No.00862458)
-Gia: 22.890.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, WVA, 60, 250 nits, Wide-Viewing Angle (WVA)
-- Intel, Core i7, 1255U
-- 8 GB (2 thanh 4 GB), DDR4, 3200 MHz
-- SSD 512 GB

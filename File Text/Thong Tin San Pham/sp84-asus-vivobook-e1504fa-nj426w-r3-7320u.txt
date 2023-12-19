@@ -1,8 +1,0 @@
-Ten: Laptop Asus Vivobook E1504FA-NJ426W R3 7320U/8GB/256GB/15.6" FHD/Win11 (No.00881861)
-Gia: 8.990.000₫
-Gia Goc: 11.490.000₫
-Chi tiet: - 15.6 inch, 1920 x 1080 Pixels, 1920 x 1080 Pixels, IPS, 60, 250 nits, Anti -glare LED-Backlit Display
-- AMD, Ryzen 3, 7320U
-- 8 GB, LPDDR5, 5500 MHz
-- SSD 256 GB
-- Intel UHD Graphics

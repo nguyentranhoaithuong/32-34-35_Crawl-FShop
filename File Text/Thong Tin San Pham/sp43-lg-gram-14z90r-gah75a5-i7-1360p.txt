@@ -1,8 +1,0 @@
-Ten: Laptop LG Gram 14Z90R-G.AH75A5 i7 1360P/16G/512G/14"WUXGA/Win11 (No.00883090)
-Gia: 34.690.000₫
-Gia Goc: 38.990.000₫
-Chi tiet: - 14 inch, 1920 x 1200 Pixels, IPS, 60, IPS
-- Intel, Core i7, 1360P
-- 16 GB
-- SSD 512 GB
-- Intel Iris Xe Graphics

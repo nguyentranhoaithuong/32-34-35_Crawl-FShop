@@ -1,8 +1,0 @@
-Ten: Laptop LG Gram Style 14Z90RS-G.AH54A5 i5 1340P/16GB/512GB/14"WQXGA+/Win11 (No.00881944)
-Gia: 34.690.000₫
-Gia Goc: 38.990.000₫
-Chi tiet: - 14.0 Chính: inch, 2880 x 1800 Pixels, OLED, 90, OLED
-- Intel, Core i5, 1340P
-- 16 GB (1 thanh 16 GB), DDR5, 6000 MHz
-- SSD 512 GB
-- Intel Iris Plus Graphics

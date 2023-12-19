@@ -1,8 +1,0 @@
-Ten: Laptop Asus Vivobook X515EA-EJ322W i3 1115G4/8GB/512GB/15.6" FHD/Win 11 (No.00861530)
-Gia: 9.790.000₫
-Gia Goc: 11.290.000₫
-Chi tiet: - 15.6 inch, FHD (1920 x 1080), TN, Anti -glare LED-Backlit Display
-- Intel, Core i3, 1115G4
-- 8 GB (2 thanh 4 GB), DDR4
-- SSD 512 GB
-- Intel UHD Graphics
