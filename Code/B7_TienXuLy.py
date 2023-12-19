@@ -25,7 +25,7 @@ def text_processing(text_pre):
     return text_pre
 
 ThuMucCMT = 'D:\Khai_pha_web\BaoCao\B5_ChuanHoaCmt'
-ThuMucTXL = 'D:\Khai_pha_web\BaoCao\B6_TXLCmt'
+ThuMucTXL = 'D:\Khai_pha_web\BaoCao\B7_TXLCmt'
 
 if not os.path.exists(ThuMucTXL):
     os.makedirs(ThuMucTXL)
